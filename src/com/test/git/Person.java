@@ -5,16 +5,18 @@ public class Person {
 	public static void main(String[] args) {
 		
 		
-		System.out.println("²â²â");
+		System.out.println("æµ‹æµ‹");
 		
 		
-		System.out.println("µÚÒ»´Î");
+		System.out.println("ç¬¬ä¸€æ¬¡");
 		
-		System.out.println("µÚ¶þ´Î");
+		System.out.println("ç¬¬äºŒæ¬¡");
 		
-		System.out.println("µÚÈý´Î");
+		System.out.println("ç¬¬ä¸‰æ¬¡");
 		
-		System.out.println("µÚËÄ´Î");
+		System.out.println("ç¬¬å››æ¬¡");
+		
+		System.out.println("ç¬¬55555æ¬¡");
 
 	}
 
